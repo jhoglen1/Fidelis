@@ -30,15 +30,17 @@ html, body {
   text-align: center;
   padding-top: 125px;
 }
- .enroll, .rabs, .blueSky{
-	cursor: pointer;
+
+.enroll, .rabs, .blueSky {
+  cursor: pointer;
 }
+
 .enroll {
   color: #ffffff;
   font-size: 18px;
   background-color: #0072ba;
   width: 300px;
-	padding: 7px;
+  padding: 7px;
   font-family: Arial;
   margin-left: 48px;
 }
@@ -128,7 +130,7 @@ html, body {
   .hero {
     background: url(photos/mountain.jpg);
     background-size: cover;
-		background-color: #ebebe9;
+    background-color: #ebebe9;
     height: 400px;
     overflow: hidden;
   }
@@ -140,14 +142,16 @@ html, body {
 
   .enroll {
     margin-left: 250px;
-		width:350px;
+    width: 350px;
   }
-	.blueSky{
-		width: 300px;
-	}
-	.rabs{
-		width:300px;
-	}
+
+  .blueSky {
+    width: 300px;
+  }
+
+  .rabs {
+    width: 300px;
+  }
 
   main {
     background-color: #ffffff;
@@ -174,9 +178,9 @@ html, body {
   .rabbit {
     grid-column: 1;
     grid-row: 2;
-		text-align: right;
-		margin-right: 55px;
-		margin-top: 50px;
+    text-align: right;
+    margin-right: 55px;
+    margin-top: 50px;
   }
 
   .image-box-one {
